@@ -1,0 +1,8 @@
+[package]
+name = "easings"
+description = "Robert Penner's easing functions"
+license = "Apache-2.0/MIT"
+version = "0.1.0"
+edition = "2021"
+repository = "https://github.com/derekdreery/easings"
+
